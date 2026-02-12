@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "セピア",
+  "base_artist": "SixTONES",
+  "createdAt": "2026-02-12T13:21:18.519409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セピア",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_セピア_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セピア - Sepia",
+      "artist": "D-51",
+      "has_synced": true,
+      "path": "select/02_セピア_-_Sepia_D-51.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セピア",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/03_セピア_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セピア",
+      "artist": "Takahashi, Yuu",
+      "has_synced": false,
+      "path": "select/04_セピア_Takahashi,_Yuu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "セピア",
+      "artist": "アフィリア・サーガ",
+      "has_synced": false,
+      "path": "select/05_セピア_アフィリア・サーガ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "セピア",
+      "artist": "SixTONES",
+      "has_synced": true,
+      "path": "select/06_セピア_SixTONES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セピア",
+      "artist": "SixTONES",
+      "has_synced": false,
+      "path": "select/pl_01_セピア_SixTONES.txt"
+    }
+  ]
+}
